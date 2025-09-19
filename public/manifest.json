@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Net Defender Browser Extension",
+  "version": "1.0.0",
+  "description": "A phishing detection tool as a Chrome extension",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": []
+}
